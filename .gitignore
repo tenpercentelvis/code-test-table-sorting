@@ -1,0 +1,6 @@
+
+node_modules
+fridg
+
+*.DS_Store
+*.log
